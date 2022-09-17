@@ -8,24 +8,24 @@ The purpose of the project is to analyze the NYC bikesharing data in August 2019
 [***Click to check out the full Tableau story***](https://public.tableau.com/app/profile/lily.han3705/viz/NYC_Bikesharing_16632153757280/UserTypes?publish=yes)
 
 ## Results
-Checkout Times for Users
+#### Checkout Times for Users
 ![1_checkout_users](Resources/1_checkout_users.png)
-Checkout Times by Genders
+#### Checkout Times by Genders
 ![2_checkout_gender](Resources/2_checkout_gender.png)
-Trips by Weekday per Hour
+#### Trips by Weekday per Hour
 ![3_trips_weekday](Resources/3_trips_weekday.png)
-Trips by Gender
+#### Trips by Gender
 ![4_trips_gender](Resources/4_trips_gender.png)
-User Trips by Gender by Weekday
+#### User Trips by Gender by Weekday
 ![5_usertrips_gender](Resources/5_usertrips_gender.png)
-August Peak Hours
+#### August Peak Hours
 ![6_august_peakhours](Resources/6_august_peakhours.png)
-User Types
+#### User Types
 ![8_usertypes](Resources/8_usertypes.png)
-Citi Bike Dashboard:
-
+#### Citi Bike Dashboard
 The dashboard provides a holistic picture of the performance of the NYC citi bike sharing business in August with the facts and visulizations: 
 ![7_dashboard](Resources/7_dashboard.png)
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+* Male users are the primary clients of the NYC Citibikes sharing business during August 2019. 
+* 
