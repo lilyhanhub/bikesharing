@@ -30,5 +30,5 @@ The data analysis of NYC Citibike sharing business in August 2019 provides insig
 * Male users and subscribers are the primary clients of the NYC Citibikes sharing business. 
 * More bikes are checked out during rush hours on weekdays. Thursday is the busiest day for bike-sharing business.   
 
-In order to provide more reference informaton for the city of Des Moines, we could conduct further analysis on the number of shared-bikes put in use in NYC, the least checkout time slots for bike maintenance, and the percentage of different user types. 
+In order to provide more reference informaton for the city of Des Moines, we could conduct further analysis on the number of shared-bikes put in use in NYC, the least checkout time slots for bike maintenance, or the percentage of different user types. 
 ![8_usertypes](Resources/8_usertypes.png)
