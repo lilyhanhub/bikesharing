@@ -20,9 +20,7 @@ The purpose of the project is to analyze the NYC bikesharing data in August 2019
 ![5_usertrips_gender](Resources/5_usertrips_gender.png)
 #### 6. August Peak Hours
 ![6_august_peakhours](Resources/6_august_peakhours.png)
-#### 7. User Types
-![8_usertypes](Resources/8_usertypes.png)
-#### 8. Citi Bike Dashboard
+#### 7. Citi Bike Dashboard
 The dashboard provides a holistic picture of the performance of the NYC citi bike sharing business in August with the facts and visulizations: 
 ![7_dashboard](Resources/7_dashboard.png)
 
