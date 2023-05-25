@@ -10,7 +10,7 @@ The purpose of the project is to analyze the NYC bikesharing data in August 2019
 ## Results
 #### 1. Checkout Times for Users
 ![1_checkout_users](Resources/1_checkout_users.png)
-#### 2. Checkout Times by Genders
+#### 2. Checkout Times by Gender
 ![2_checkout_gender](Resources/2_checkout_gender.png)
 #### 3. Trips by Weekday per Hour
 ![3_trips_weekday](Resources/3_trips_weekday.png)
